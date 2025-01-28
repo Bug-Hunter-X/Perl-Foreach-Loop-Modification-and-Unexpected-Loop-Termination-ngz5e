@@ -1,0 +1,1 @@
+This repository contains examples of uncommon Perl code errors. The `bug.pl` file demonstrates modifying a loop counter during a `foreach` loop, which causes unexpected behavior.  The `bugSolution.pl` provides a corrected version.  This is a common pitfall for Perl programmers who are not familiar with the specifics of how foreach handles array manipulation during iteration.
